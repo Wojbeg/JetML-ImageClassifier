@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JetML ImageClassifier</string>
+    <string name="upload_photo">Upload photo to classify it</string>
+    <string name="image_to_classify">Image to classify</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="classify_image">Classify Image</string>
+    <string name="permission_denied">Permission denied!</string>
+    <string name="add_photo">Add photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_file_gallery">Choose file from Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="arrow_back">Arrow Back</string>
+    <string name="classifier_status">Classifier stats: </string>
+</resources>
